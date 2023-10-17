@@ -1,0 +1,29 @@
+{
+  "name": "flavio-mamede-design-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.1.13",
+    "axios": "^1.5.1",
+    "next": "^13.3.4",
+    "next-navigation": "^1.0.6",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "^6.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "^18.2.24",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "next-router-mock": "^0.9.10",
+    "typescript": "latest"
+  }
+}
